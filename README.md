@@ -256,4 +256,6 @@ Based on research papers:
 
 ---
 
+**If you want to help me out you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5ZJUA3)**
+
 **Start building better, faster, and more consistently with Claude Code's modular framework.**
